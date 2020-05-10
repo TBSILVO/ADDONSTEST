@@ -367,7 +367,7 @@
 </item>
 
 <item>
-<title>[COLOR white]À Espera de Um Milagre - 1999[/COLOR]</title>
+<title>[COLOR white]A Espera de Um Milagre - 1999[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jmA5M239_k2j2EoCHo5sdWmRrriFXKDQ/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RKjFMIlb3UmvUtxeM1uzS0WMhG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/l6hQWH9eDksNJNiXWYRkWqikOdu.jpg</fanart>
@@ -476,4 +476,12 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZX6ILyQJYrEZGqH7pXePQRU8GK.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/x6Dxc9Z17Yt9gtq7Dq6uCPbPcxD.jpg</fanart>
 <info>No planeta Latimer, Takeshi Kovacs deve proteger um tatuador enquanto investiga a morte de um chefe de uma organização, a yakuza, ao lado de um CTAC. • O anime se passa no mesmo universo da série live-action, mas não possui influência sobre a trama.</info>
+</item>
+
+<item>
+<title>Velozes e Furiosos 1</title>
+<link>https://ok.ru/video/26095127154</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uv63yAGg1zETAs1XQsOQpava87l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uv63yAGg1zETAs1XQsOQpava87l.jpg</fanart>
+<info>Série de filmes de ação centrada em corridas de rua ilegais e roubos.</info>
 </item>
