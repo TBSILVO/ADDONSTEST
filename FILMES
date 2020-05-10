@@ -2,7 +2,7 @@
 <channel>
 <name>[COLOR lime][B]Jurassic World: O Mundo dos Dinossauros[/COLOR][/B]</name>
 <thumbnail>https://ia601406.us.archive.org/5/items/series_20200510/filmes.png</thumbnail>
-<externallink>https://drive.google.com/file/d/1RbBuf1LNhkaxJ4YFX5dKZee_E1GExmmm/view</externallink>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RbBuf1LNhkaxJ4YFX5dKZee_E1GExmmm/view?usp=drivesdk</link>
 <fanart>https://ia601504.us.archive.org/0/items/entrar_20200510_0411/Fanart.png</fanart>
 <info>
 
